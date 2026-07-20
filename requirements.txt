@@ -1,0 +1,12 @@
+torch>=2.0
+transformers>=4.51
+datasets>=3.0
+accelerate>=1.1          
+huggingface_hub
+tqdm
+pandas                   
+statsmodels              
+scipy                    
+scikit-learn             
+nltk
+wandb                  
